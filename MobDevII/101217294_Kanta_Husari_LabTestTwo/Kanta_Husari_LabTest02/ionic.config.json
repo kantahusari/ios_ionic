@@ -1,0 +1,8 @@
+{
+  "name": "labtest",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

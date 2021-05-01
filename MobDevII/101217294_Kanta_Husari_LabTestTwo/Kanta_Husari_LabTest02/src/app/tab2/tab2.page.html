@@ -1,0 +1,12 @@
+<ion-content [fullscreen]="true">
+  <ion-header vertical="center" horizontal="center" slot="fixed">
+    <h1>Geo Location</h1>
+    <div>latitude:{{coordinates[0]}}, longitude:{{coordinates[1]}}</div>
+    <br>
+  </ion-header>
+  <br>
+  <ion-item vertical="center" horizontal="center" slot="fixed" *ngFor="let currentCords of previousCoords">
+    latitude:{{currentCords[1]}}, longitude:{{currentCords[2]}}, Date:{{currentCords[3]}}-{{currentCords[4]}}-{{currentCords[5]}}
+
+  </ion-item>
+</ion-content>

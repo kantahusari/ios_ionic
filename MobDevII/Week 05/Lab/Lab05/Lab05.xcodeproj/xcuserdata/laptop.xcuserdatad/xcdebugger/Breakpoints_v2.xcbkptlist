@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B2425AA6-7322-4645-B8A5-F32863B3C47E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab05/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - 8df3194d6a417bfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.z.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - 23c1dd1e122bdfce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.z.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - 287dc8d1e98fdf42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.z.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - 89be8bd3d98222ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.z.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - 3b18ee3f463caeba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lab05.ViewController"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "844">
+               </Location>
+               <Location
+                  uuid = "4DD90D65-1179-477B-AC95-96EF87C8296A - c4542e8b915914f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab05.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lab05.ViewController&gt;"
+                  moduleName = "Lab05"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laptop/Desktop/MobDevII/Week%2005/Lab/Lab05/Lab05/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "785">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
